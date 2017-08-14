@@ -3,7 +3,7 @@ A libary which offers auto completions for the PAWN language in Visual Studio Co
 
 ## Current Libaries Supported
 
-The following libaries are supported:
+The following libaries are featured:
 
 - To be updated..
 
